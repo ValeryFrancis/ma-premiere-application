@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f2f5f8;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.container {
+    background: white;
+    max-width: 600px;
+    margin: auto;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    color: #333;
+}
+
+p {
+    font-size: 18px;
+}
+
+button {
+    padding: 15px 25px;
+    font-size: 18px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    transform: scale(1.05);
+}
+
+#message {
+    margin-top: 25px;
+    font-weight: bold;
+}

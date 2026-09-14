@@ -6,11 +6,11 @@ body {
 }
 
 .container {
-    background: white;
+    background: red;
     max-width: 600px;
     margin: auto;
     padding: 40px;
-    border-radius: 20px;
+    border-radius: 40px;
     box-shadow: 0 5px 20px rgba(0,0,0,0.1);
 }
 
